@@ -1,8 +1,6 @@
 # Exercício Semana 8
 
-O projeto desta semana é uma atividade onde devemos aplicar o conhecimento apreendido ao longo das semanas anteriores do curso de backend da {reprograma}. Até o momento, vimos: 
-* Git e github;
-* Lógica de programação, funções, métodos, arrays e objetos;
+O projeto desta semana é uma atividade onde devemos aplicar o conhecimento apreendido nas duas últimas semanas do curso de backend da {reprograma}: 
 * HTTP, GET;
 * API
 
