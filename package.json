@@ -1,14 +1,26 @@
 {
-    "name": "on7-porto-s8-projeto-pratico",
-    "version": "1.0.0",
-    "description": "Projeto Prático - Semana 8",
-    "main": "app.js",
-    "scripts": {
-      "start": "node server",
-      "nodemon": "nodemon server"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "nodemon": "2.0.4"
-    }
-  }
+  "name": "exercicio-semana-8",
+  "version": "1.0.0",
+  "description": "O projeto desta semana é uma atividade onde devemos aplicar o conhecimento apreendido nas duas últimas semanas do curso de backend da {reprograma}:  * HTTP, GET; * API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lealclarissa/exercicio-semana-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lealclarissa/exercicio-semana-8/issues"
+  },
+  "homepage": "https://github.com/lealclarissa/exercicio-semana-8#readme"
+}

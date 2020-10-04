@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Grey's Anatomy",
+        "duracao": "16 temporadas",
+        "broadcaster": "abc"
+    },
+    {
+        "id": 2,
+        "titulo": "Outlander",
+        "duracao": "5 temporadas",
+        "broadcaster": "abc"
+    },
+    {
+        "id": 3,
+        "titulo": "Fleabag",
+        "duracao": "2 temporadas",
+        "broadcaster": "Starz" 
+    },
+    {
+        "id": 4,
+        "titulo": "blabla",
+        "duracao": "2 temporadas",
+        "broadcaster": "Starz" 
+    }
+]
