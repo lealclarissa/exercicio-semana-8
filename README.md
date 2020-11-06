@@ -1,4 +1,6 @@
-# Exercício Semana 8
+# API
+
+[![API](./public/images/api2.png)](https://assets-blog.hostgator.com.br/wp-content/uploads/2019/11/api-restful-conceito-principios-como-criar-blog-v01.png)
 
 O projeto desta semana é uma atividade onde devemos aplicar o conhecimento apreendido nas duas últimas semanas do curso de backend da {reprograma}: 
 
