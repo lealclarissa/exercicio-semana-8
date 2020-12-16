@@ -7,7 +7,9 @@
 
 <h1 align="center">API</h1>
 
-[![API](./assets/api2.png)](https://assets-blog.hostgator.com.br/wp-content/uploads/2019/11/api-restful-conceito-principios-como-criar-blog-v01.png)
+<h1 align="center">
+<a href="https://assets-blog.hostgator.com.br/wp-content/uploads/2019/11/api-restful-conceito-principios-como-criar-blog-v01.png"><img src="./assets/api2.png" alt="API"></a>
+</h1>
 
 O projeto desta semana é uma atividade onde devemos aplicar o conhecimento apreendido nas duas últimas semanas do curso de backend da {reprograma}: 
 
